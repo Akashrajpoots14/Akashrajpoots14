@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akashrajpoots14
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and Development
 - 🌱 I’m currently learning Mern stack
 - 💞️ I’m looking to contribute on open source projects
 - 📫 How to reach me 
