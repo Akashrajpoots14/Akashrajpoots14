@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrajpoots14&label=Profile%20views&color=0e75b6&style=flat" alt="akashrajpoots14" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@akashrajpoots14" target="blank"><img src="https://img.shields.io/twitter/follow/@akashrajpoots14?logo=twitter&style=for-the-badge" alt="@akashrajpoots14" /></a> </p>
 
 - 📫 How to reach me **akashrajpoots14@gmail.com**
 
