@@ -10,7 +10,7 @@
     <b>A passionate self-learner, Hustler</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrajpoots14&label=Profile%20views&color=0e75b6&style=flat" alt="akashrajpoots14" /> </p>
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
