@@ -14,7 +14,6 @@
 
 - ✔ **Software Engineer** with expertise in backend and frontend development. <br>
 - ✔ Focused on **building scalable applications** with optimized performance. 
-- ✔ Experienced in **authentication, role-based access control (RBAC), and API integrations**. 
 - ✔ Strong understanding of **System design, Data structures, and low-level design principles**. 
 - ✔ Open to collaborating on **Challenging development projects**. 
 ---
